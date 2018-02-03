@@ -10,4 +10,4 @@ It is very easy to use:
 >sample_html = '<div>This is a unclosed tag html'
 >closed_html = tagcloser.close_tags(sample_html)
   
-It will return '<div> This is a unclosed tag html </div>'
+It will return ```<div> This is a unclosed tag html </div>```
